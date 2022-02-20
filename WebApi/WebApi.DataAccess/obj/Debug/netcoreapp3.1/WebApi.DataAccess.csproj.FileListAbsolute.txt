@@ -1,0 +1,13 @@
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.deps.json
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.dll
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.pdb
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.Core.dll
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.Core.pdb
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.AssemblyInfo.cs
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.csproj.CopyComplete
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.dll
+C:\Users\0728\Desktop\FrameworkWebApi\WebApi\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.pdb
